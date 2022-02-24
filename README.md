@@ -4,14 +4,12 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20developer;Love%20to%20learn%20new%20things;Welcome&font=Fira%20Code&center=true&width=440&height=45&color=f9bc2f&vCenter=true&size=22"></a>
+  <a href="https://github.com/adikurniawanid"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20developer;Love%20to%20learn%20new%20things;Welcome&font=Fira%20Code&center=true&width=440&height=45&color=f9bc2f&vCenter=true&size=22"></a>
 </p>
 <p align="center">
   <a href="https://adikurniawanid.github.io/"><img src="https://custom-icon-badges.herokuapp.com/badge/-About%20Me-282828?style=for-the-badge&logo=package&logoColor=yellow"/></a>
   <a href="https://adikurniawanid.github.io/blog"><img src="https://custom-icon-badges.herokuapp.com/badge/-My%20Blog-282828?style=for-the-badge&logo=package&logoColor=yellow"></a>
 </p>
-
-<br/>
 
 ## 📘 Pinned Repository
 <p align="left">
