@@ -45,7 +45,7 @@
     <summary>⚡  GitHub Recent Activity</summary>
 <p align="left">
   <a href="https://adikurniawanid.github.io/">
-  <img src="https://activity-graph.herokuapp.com/graph?username=adikurniawanid&custom_title=Adi%20Kurniawan%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=adikurniawanid&custom_title=Adi%20Kurniawan%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545" />
   </a>
 </p>
 </details>
