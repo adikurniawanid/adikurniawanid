@@ -16,9 +16,10 @@
   <a href="https://github.com/adikurniawanid/rhapsody-theme"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adikurniawanid&repo=rhapsody-theme&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545"></a>
   <a href="https://github.com/adikurniawanid/dotfiles"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adikurniawanid&repo=dotfiles&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545" ></a>
   <a href="https://github.com/adikurniawanid/express-secondhand-api"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adikurniawanid&repo=express-secondhand-api&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545"></a>
-   <a href="https://github.com/adikurniawanid/react-secondhand-web"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adikurniawanid&repo=react-secondhand-web&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545"></a>
+  <a href="https://github.com/adikurniawanid/express-unsribot-api"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adikurniawanid&repo=express-unsribot-api&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545"></a> 
+  <a href="https://github.com/adikurniawanid/express-jobVacancy-bot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adikurniawanid&repo=express-jobVacancy-bot&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545"></a>
   <a href="https://github.com/adikurniawanid/express-shortlink-api"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adikurniawanid&repo=express-shortlink-api&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545"></a>
-  <a href="https://github.com/adikurniawanid/express-unsribot-api"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adikurniawanid&repo=express-unsribot-api&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545"></a>
+  
 </p>
 <p align="left">
   <a href="https://github.com/adikurniawanid?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-282828?style=for-the-badge&logoColor=f9bc2f&logo=repo"/></a>
@@ -45,8 +46,17 @@
     <summary>⚡  GitHub Recent Activity</summary>
 <p align="left">
   <a href="https://adikurniawanid.github.io/">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=adikurniawanid&custom_title=Adi%20Kurniawan%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adikurniawanid&custom_title=Adi%20Kurniawan%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545" />
   </a>
 </p>
+</details>
+
+<details> 
+  <summary>🌟  Badges</summary>
+    <p align="left">
+      <a href="https://holopin.io/@adikurniawan">
+        <img src="https://holopin.me/adikurniawan" />
+      </a>
+    </p>
 </details>
 
